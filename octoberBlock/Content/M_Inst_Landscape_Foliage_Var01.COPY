@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_Inst_Landscape_Foliage_Var01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind.M_Uber_Cutout_Wind"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="NormalMapIntensity"),ExpressionGUID=808D0ACC48E6127DDB2AD39910B46B5F)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Opacity"),ParameterValue=1.000000,ExpressionGUID=82595F06477F3441EEBF4D8E960C6644)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Wind Intensity"),ParameterValue=0.250000,ExpressionGUID=7CCEA56F4B54411248FA5BA9F5D3CA30)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Wind Speed"),ParameterValue=0.075000,ExpressionGUID=CEC60CFA4DEF17306BDBA18E95AC2AE4)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="DiffuseTint"),ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=AC31F3934E7649341B60BCBF80CA12A7)
+   TextureParameterValues(0)=(ParameterInfo=(Name="DiffuseTexture"),ParameterValue=Texture2D'"/Game/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var01_D.T_Foliage_Var01_D"',ExpressionGUID=CFE44D8545F8ADE7A55E01B2E95767A9)
+   TextureParameterValues(1)=(ParameterInfo=(Name="OpacitiyMap"),ParameterValue=Texture2D'"/Game/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var01_O.T_Foliage_Var01_O"',ExpressionGUID=19E74C384F412D13E0E799B1984D7B2B)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=B896EF3F4D38E7FA840F5EBC0764ECE0
+   ReferencedTextureGuids(1)=A8000B6D498302366329FDBE10EE447A
+   ReferencedTextureGuids(2)=D150F1E343118E8B38AB1EA73201C539
+   ReferencedTextureGuids(3)=6857AF41483E3F769D9AD1A7EE8724D2
+   ReferencedTextureGuids(4)=A368BA7649F0B64353F2919E96853A99
+   ReferencedTextureGuids(5)=4789DEBB446B903070335D93E406D72A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=306E292849C5294A0EB6CBB18A7D6F6A
+End Object
