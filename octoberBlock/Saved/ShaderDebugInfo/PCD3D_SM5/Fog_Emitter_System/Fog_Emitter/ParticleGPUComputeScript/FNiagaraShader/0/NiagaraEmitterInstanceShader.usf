@@ -7448,6 +7448,10 @@ SceneTexturesStruct_SceneColorCopyTextureSampler, SceneTexturesStruct, 8, 35
 NULL, NULL, 0, 0
 #endif /*END_RESOURCE_TABLES*/
 #if 0 /*DIRECT COMPILE*/
+<<<<<<< HEAD
 -directcompile -format=PCD3D_SM5 -entry=SimulateMainComputeCS -cs C:/HWork1/snowShip/octoberBlock/Saved/ShaderDebugInfo/PCD3D_SM5/Fog_Emitter_System/Fog_Emitter/ParticleGPUComputeScript/FNiagaraShader/0/NiagaraEmitterInstanceShader.usf -cflags=4096 -nocrashreports
+=======
+-directcompile -format=PCD3D_SM5 -entry=SimulateMainComputeCS -cs C:/octoberBlock/Saved/snowShip/octoberBlock/Saved/ShaderDebugInfo/PCD3D_SM5/Fog_Emitter_System/Fog_Emitter/ParticleGPUComputeScript/FNiagaraShader/0/NiagaraEmitterInstanceShader.usf -cflags=4096 -nocrashreports
+>>>>>>> 1d331bb49c624871d93a64c8f0ba54d4b36775e4
 #endif /*DIRECT COMPILE*/
 //
