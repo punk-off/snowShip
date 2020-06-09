@@ -34,6 +34,11 @@
 									<PropertyList>
 										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-2</Value>
+											</ValueList>
+										</Property>
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
@@ -62,7 +67,7 @@
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
-												<Value>-4</Value>
+												<Value>-5</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -89,10 +94,11 @@
 								</Sound>
 								<Sound Name="Music_2" ID="{3D1598BC-AAE4-495F-97B4-2FFCDD28FB7D}" ShortID="764031260">
 									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
-												<Value>-9</Value>
+												<Value>-10</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -117,6 +123,28 @@
 										<ActiveSource Name="Music_2" ID="{A1DA2A1C-6160-4164-8FE4-B220D764D456}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="Music_3" ID="{4D27BC38-C389-4B1D-ABC6-AD0E0A148DF1}" ShortID="668824952">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Music_3" ID="{8E31B279-C2D2-4170-BBC7-5CFAB593DB13}">
+											<Language>SFX</Language>
+											<AudioFile>Music_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="969105464"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Music_3" ID="{8E31B279-C2D2-4170-BBC7-5CFAB593DB13}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 							<BlendTrackList>
 								<BlendTrack Name="Mus" ID="{1CA5B38F-ABC3-4FB2-86FA-BF870B05E9AC}" ShortID="266208788">
@@ -136,14 +164,23 @@
 												<LeftFadingMode>Manual</LeftFadingMode>
 												<LeftFadingSegmentShape>Log3</LeftFadingSegmentShape>
 												<LeftFadingPos>4.0130890052356</LeftFadingPos>
-												<RightEdgePos>5.96806282722513</RightEdgePos>
+												<RightEdgePos>9.9</RightEdgePos>
 												<RightFadingMode>Automatic</RightFadingMode>
 											</CrossfadingInfo>
 										</BlendTrackAssoc>
 										<BlendTrackAssoc>
 											<ItemRef Name="Music_2" ID="{3D1598BC-AAE4-495F-97B4-2FFCDD28FB7D}"/>
 											<CrossfadingInfo>
-												<LeftEdgePos>5.26701570680628</LeftEdgePos>
+												<LeftEdgePos>9.1</LeftEdgePos>
+												<LeftFadingMode>Automatic</LeftFadingMode>
+												<RightEdgePos>13.9237592007924</RightEdgePos>
+												<RightFadingMode>Automatic</RightFadingMode>
+											</CrossfadingInfo>
+										</BlendTrackAssoc>
+										<BlendTrackAssoc>
+											<ItemRef Name="Music_3" ID="{4D27BC38-C389-4B1D-ABC6-AD0E0A148DF1}"/>
+											<CrossfadingInfo>
+												<LeftEdgePos>13.1182595606021</LeftEdgePos>
 												<LeftFadingMode>Automatic</LeftFadingMode>
 												<RightEdgePos>14</RightEdgePos>
 												<RightFadingMode>Automatic</RightFadingMode>
@@ -170,6 +207,20 @@
 					</ReferenceList>
 					<ChildrenList>
 						<Sound Name="Horn" ID="{05147AC6-C9AF-40FC-ADA3-F28F046877C2}" ShortID="325650710">
+							<PropertyList>
+								<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+								<Property Name="IsGlobalLimit" Type="int16" Value="1"/>
+								<Property Name="MaxSoundPerInstance" Type="int16">
+									<ValueList>
+										<Value>1</Value>
+									</ValueList>
+								</Property>
+								<Property Name="UseMaxSoundPerInstance" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
@@ -220,63 +271,6 @@
 								<ActiveSource Name="Water_Splash" ID="{A4744F0A-4F02-48F8-9DB0-6581AE503586}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
-						<Sound Name="Boat_loop" ID="{B6E00EA4-439F-4908-A241-7C467BC46A1C}" ShortID="127136153">
-							<PropertyList>
-								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-8</Value>
-									</ValueList>
-									<RTPCList>
-										<RTPC Name="" ID="{44FF1101-1BC5-4800-9075-BF253F088D84}" ShortID="594379905">
-											<ReferenceList>
-												<Reference Name="ControlInput">
-													<ObjectRef Name="Speed" ID="{C325B172-D73A-4BB2-887E-F4D5C300B2BD}" WorkUnitID="{96AC7BCF-4719-4780-A8F8-DE825424F95F}"/>
-												</Reference>
-											</ReferenceList>
-											<Curve Name="" ID="{C030C143-84F4-4A8F-BC54-5F934AC86F17}">
-												<PropertyList>
-													<Property Name="Flags" Type="int32" Value="3"/>
-												</PropertyList>
-												<PointList>
-													<Point>
-														<XPos>0</XPos>
-														<YPos>-200</YPos>
-														<Flags>5</Flags>
-														<SegmentShape>SCurve</SegmentShape>
-													</Point>
-													<Point>
-														<XPos>1</XPos>
-														<YPos>0</YPos>
-														<Flags>37</Flags>
-													</Point>
-												</PointList>
-											</Curve>
-										</RTPC>
-									</RTPCList>
-								</Property>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="Boat_loop" ID="{39C11BC1-40D8-4044-A1FC-DD8E02EA3AEC}">
-									<Language>SFX</Language>
-									<AudioFile>Boat_loop.wav</AudioFile>
-									<MediaIDList>
-										<MediaID ID="642166953"/>
-									</MediaIDList>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="Boat_loop" ID="{39C11BC1-40D8-4044-A1FC-DD8E02EA3AEC}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
 						<Sound Name="Garbage_Burn" ID="{80392841-355D-492C-962A-F9E0251D0BFE}" ShortID="447703782">
 							<PropertyList>
 								<Property Name="Volume" Type="Real64">
@@ -310,7 +304,7 @@
 							<PropertyList>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-7</Value>
+										<Value>-9</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -333,6 +327,223 @@
 							</ChildrenList>
 							<ActiveSourceList>
 								<ActiveSource Name="Garbage_PickUp" ID="{FDDA0639-7EE7-4E93-AE60-C3CA1C1E2C8A}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Seagulls" ID="{ECB44760-D215-4790-8F01-CFB1877C65E2}" ShortID="214727894">
+							<PropertyList>
+								<Property Name="3DSpatialization" Type="int16" Value="2"/>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="OverridePositioning" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>2</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Attenuation">
+									<Custom>
+										<Attenuation Name="Attenuation (Custom)" ID="{92A03D6F-C6C7-4417-A814-B6524CC36033}" ShortID="797803605">
+											<PropertyList>
+												<Property Name="RadiusMax" Type="Real64" Value="2000"/>
+											</PropertyList>
+											<CurveUsageInfoList>
+												<VolumeDryUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+														<Curve Name="VolumeDry" ID="{2434D091-4964-42F7-A6EF-EF48D3E39D7F}">
+															<PropertyList>
+																<Property Name="Flags" Type="int32" Value="3"/>
+															</PropertyList>
+															<PointList>
+																<Point>
+																	<XPos>0</XPos>
+																	<YPos>0</YPos>
+																	<Flags>5</Flags>
+																</Point>
+																<Point>
+																	<XPos>2000</XPos>
+																	<YPos>-200</YPos>
+																	<Flags>37</Flags>
+																</Point>
+															</PointList>
+														</Curve>
+													</CurveUsageInfo>
+												</VolumeDryUsage>
+												<VolumeWetGameUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+												</VolumeWetGameUsage>
+												<VolumeWetUserUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+												</VolumeWetUserUsage>
+												<LowPassFilterUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+												</LowPassFilterUsage>
+												<HighPassFilterUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+												</HighPassFilterUsage>
+												<SpreadUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+												</SpreadUsage>
+												<FocusUsage>
+													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+												</FocusUsage>
+											</CurveUsageInfoList>
+										</Attenuation>
+									</Custom>
+								</Reference>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Seagulls" ID="{ED789AF2-6BFA-4738-975C-6971CD8CAD5C}">
+									<Language>SFX</Language>
+									<AudioFile>Seagulls.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="253753870"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Seagulls" ID="{ED789AF2-6BFA-4738-975C-6971CD8CAD5C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<BlendContainer Name="Boat" ID="{325FF4D5-24B3-40E5-9CD2-CC07CE220352}" ShortID="1019801176">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-1</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Boat_1" ID="{10642488-9185-44DD-8F39-C2D7507DE564}" ShortID="334674909">
+									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Boat_1" ID="{7D09C063-DCE4-4F7A-8FFC-74263D2675E1}">
+											<Language>SFX</Language>
+											<AudioFile>Boat_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="883907991"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Boat_1" ID="{7D09C063-DCE4-4F7A-8FFC-74263D2675E1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Boat_2" ID="{EADAC734-3ADA-47FB-A084-8CE38407E476}" ShortID="547881468">
+									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-3</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Boat_2" ID="{6CF12A68-7A64-49A0-95EB-F2082C61F591}">
+											<Language>SFX</Language>
+											<AudioFile>Boat_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="585978032"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Boat_2" ID="{6CF12A68-7A64-49A0-95EB-F2082C61F591}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<BlendTrackList>
+								<BlendTrack Name="Boat" ID="{30E27EF6-2B37-4ACE-9BCF-E2B36271707C}" ShortID="644927398">
+									<PropertyList>
+										<Property Name="EnableCrossFading" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="LayerCrossFadeControlInput">
+											<ObjectRef Name="Speed" ID="{C325B172-D73A-4BB2-887E-F4D5C300B2BD}" WorkUnitID="{96AC7BCF-4719-4780-A8F8-DE825424F95F}"/>
+										</Reference>
+									</ReferenceList>
+									<BlendTrackAssocList>
+										<BlendTrackAssoc>
+											<ItemRef Name="Boat_1" ID="{10642488-9185-44DD-8F39-C2D7507DE564}"/>
+											<CrossfadingInfo>
+												<LeftEdgePos>0</LeftEdgePos>
+												<LeftFadingMode>Automatic</LeftFadingMode>
+												<RightEdgePos>0.799738219895288</RightEdgePos>
+												<RightFadingMode>Automatic</RightFadingMode>
+											</CrossfadingInfo>
+										</BlendTrackAssoc>
+										<BlendTrackAssoc>
+											<ItemRef Name="Boat_2" ID="{EADAC734-3ADA-47FB-A084-8CE38407E476}"/>
+											<CrossfadingInfo>
+												<LeftEdgePos>0.200261780104712</LeftEdgePos>
+												<LeftFadingMode>Automatic</LeftFadingMode>
+												<RightEdgePos>1</RightEdgePos>
+												<RightFadingMode>Automatic</RightFadingMode>
+											</CrossfadingInfo>
+										</BlendTrackAssoc>
+									</BlendTrackAssocList>
+								</BlendTrack>
+							</BlendTrackList>
+						</BlendContainer>
+						<Sound Name="Click_Confirm_3" ID="{0E110221-9038-4307-868A-18810C0B361F}" ShortID="538507209">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>1</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Click_Confirm_3" ID="{142975CD-184A-4537-B2A1-7FAA2173D21C}">
+									<Language>SFX</Language>
+									<AudioFile>Click_Confirm_3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="721406619"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Click_Confirm_3" ID="{142975CD-184A-4537-B2A1-7FAA2173D21C}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>

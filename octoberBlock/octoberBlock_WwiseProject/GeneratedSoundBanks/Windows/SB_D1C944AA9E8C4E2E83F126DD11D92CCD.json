@@ -1,0 +1,43 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3912371554",
+    "GUID": "{E9320D62-0D62-1D62-6262-626262626262}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_D1C944AA9E8C4E2E83F126DD11D92CCD",
+    "ShortName": "SB_D1C944AA9E8C4E2E83F126DD11D92CCD",
+    "Path": "SB_D1C944AA9E8C4E2E83F126DD11D92CCD.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1548683425",
+      "Name": "sfx_Seagulls",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Seagulls",
+      "GUID": "{D1C944AA-9E8C-4E2E-83F1-26DD11D92CCD}",
+      "MaxAttenuation": "2000.000000",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "253753870",
+        "Language": "SFX",
+        "ShortName": "Seagulls.wav",
+        "Path": "SFX\\Seagulls_D79FB2B7.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

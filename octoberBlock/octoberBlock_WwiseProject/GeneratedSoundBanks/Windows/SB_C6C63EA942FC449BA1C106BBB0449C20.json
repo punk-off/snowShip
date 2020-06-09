@@ -31,7 +31,7 @@
         "Id": "446818529",
         "Language": "SFX",
         "ShortName": "Music_2.wav",
-        "Path": "SFX\\Music_2_10C4C929.wem"
+        "Path": "SFX\\Music_2_D79FB2B7.wem"
        },
        {
         "Id": "494487689",
@@ -44,6 +44,12 @@
         "Language": "SFX",
         "ShortName": "a_env_3d_ambience_steady_water1.wav",
         "Path": "SFX\\a_env_3d_ambience_steady_water1_D79FB2B7.wem"
+       },
+       {
+        "Id": "969105464",
+        "Language": "SFX",
+        "ShortName": "Music_3.wav",
+        "Path": "SFX\\Music_3_10C4C929.wem"
        }
       ]
      }

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2546949350	sfx_Click_Confirm			\Default Work Unit\sfx_Click_Confirm	
+

@@ -1,0 +1,44 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1809413949",
+    "GUID": "{6BD9773D-773D-173D-3D3D-3D3D3D3D3D3D}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_90A444E8C243416FA0A03687A4B7D260",
+    "ShortName": "SB_90A444E8C243416FA0A03687A4B7D260",
+    "Path": "SB_90A444E8C243416FA0A03687A4B7D260.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2546949350",
+      "Name": "sfx_Click_Confirm",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Click_Confirm",
+      "GUID": "{90A444E8-C243-416F-A0A0-3687A4B7D260}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.365465",
+      "DurationMax": "0.365465",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "721406619",
+        "Language": "SFX",
+        "ShortName": "Click_Confirm_3.wav",
+        "Path": "SFX\\Click_Confirm_3_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
