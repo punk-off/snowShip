@@ -14,6 +14,61 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="sfx_Horn" ID="{9501C663-3BFC-4009-82D4-4C24DE6E65C2}">
+					<ChildrenList>
+						<Action Name="" ID="{9E62CD5A-EB15-47A8-98B9-CCDB8DED03F0}" ShortID="628507689">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Horn" ID="{05147AC6-C9AF-40FC-ADA3-F28F046877C2}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Water_Splash" ID="{B4AED662-6346-46C1-AA8A-F5FB94FD5B1E}">
+					<ChildrenList>
+						<Action Name="" ID="{EA42AB63-FC5C-48CB-8928-47A14F9F9897}" ShortID="522295895">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Water_Splash" ID="{89A7575A-D9D3-4571-8065-A0A4FF4ED1A5}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Boat_loop" ID="{3ECBAADB-7A15-494C-A815-28993FF3CDE5}">
+					<ChildrenList>
+						<Action Name="" ID="{027CA46C-FA7F-47F5-B689-8FD1D4847630}" ShortID="480181351">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boat_loop" ID="{B6E00EA4-439F-4908-A241-7C467BC46A1C}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Garbage_Burn" ID="{CDC347FF-789D-4ED4-A717-2B09F4AD9C81}">
+					<ChildrenList>
+						<Action Name="" ID="{D9D4B336-F1DF-4255-B0AA-CEE6F90AAF35}" ShortID="532327172">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_Burn" ID="{80392841-355D-492C-962A-F9E0251D0BFE}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Garbage_PickUp" ID="{DA75109A-F2F2-4B67-A756-32494649CCAB}">
+					<ChildrenList>
+						<Action Name="" ID="{5D164A21-23A8-409B-BDB4-CBE095A638E2}" ShortID="110994822">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_PickUp" ID="{00977728-9C78-4863-9ED1-7A798E7CA4E8}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -1,0 +1,62 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "214229717",
+    "GUID": "{0CC4E2D5-E2D5-12D5-D5D5-D5D5D5D5D5D5}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_C6C63EA942FC449BA1C106BBB0449C20",
+    "ShortName": "SB_C6C63EA942FC449BA1C106BBB0449C20",
+    "Path": "SB_C6C63EA942FC449BA1C106BBB0449C20.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "320669418",
+      "Name": "amb_global_ambient",
+      "ObjectPath": "\\Events\\Default Work Unit\\amb_global_ambient",
+      "GUID": "{C6C63EA9-42FC-449B-A1C1-06BBB0449C20}",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "446818529",
+        "Language": "SFX",
+        "ShortName": "Music_2.wav",
+        "Path": "SFX\\Music_2_10C4C929.wem"
+       },
+       {
+        "Id": "494487689",
+        "Language": "SFX",
+        "ShortName": "Music_1.wav",
+        "Path": "SFX\\Music_1_D79FB2B7.wem"
+       },
+       {
+        "Id": "962831990",
+        "Language": "SFX",
+        "ShortName": "a_env_3d_ambience_steady_water1.wav",
+        "Path": "SFX\\a_env_3d_ambience_steady_water1_D79FB2B7.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2782712965",
+      "Name": "Level",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Level",
+      "GUID": "{711227C5-361C-421B-A4F5-024C6AB45DE7}"
+     }
+    ]
+   }
+  ]
+ }
+}

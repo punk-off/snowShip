@@ -1,0 +1,44 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "726857338",
+    "GUID": "{2B52F67A-F67A-167A-7A7A-7A7A7A7A7A7A}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_9501C6633BFC400982D44C24DE6E65C2",
+    "ShortName": "SB_9501C6633BFC400982D44C24DE6E65C2",
+    "Path": "SB_9501C6633BFC400982D44C24DE6E65C2.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3462294554",
+      "Name": "sfx_Horn",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Horn",
+      "GUID": "{9501C663-3BFC-4009-82D4-4C24DE6E65C2}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.600000",
+      "DurationMax": "1.600000",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "293283357",
+        "Language": "SFX",
+        "ShortName": "Horn.wav",
+        "Path": "SFX\\Horn_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
