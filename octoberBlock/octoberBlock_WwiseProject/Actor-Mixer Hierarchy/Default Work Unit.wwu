@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="Ambient" ID="{28DD94DF-E619-4A0D-98F5-F500B7289569}" ShortID="557289664">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<BlendContainer Name="Global_ambience" ID="{806EDB9D-A568-4B88-8EE4-F7B36AF52B89}" ShortID="643388846">
+							<PropertyList>
+								<Property Name="OverrideOutput" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Amb" ID="{D3C1B0EF-B85E-40A1-B756-E8D1486966FD}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+						</BlendContainer>
+					</ChildrenList>
+				</ActorMixer>
+				<ActorMixer Name="Sfx" ID="{C40991B0-6429-460F-9074-E9925A242C75}" ShortID="751545747">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+						</Reference>
+					</ReferenceList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
