@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	320669418	amb_global_ambient			\Default Work Unit\amb_global_ambient	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2782712965	Level			\Default Work Unit\Level	
+

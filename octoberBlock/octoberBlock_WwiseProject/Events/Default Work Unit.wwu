@@ -14,6 +14,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="sfx_Horn" ID="{9501C663-3BFC-4009-82D4-4C24DE6E65C2}">
+					<ChildrenList>
+						<Action Name="" ID="{9E62CD5A-EB15-47A8-98B9-CCDB8DED03F0}" ShortID="628507689">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Horn" ID="{05147AC6-C9AF-40FC-ADA3-F28F046877C2}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Water_Splash" ID="{B4AED662-6346-46C1-AA8A-F5FB94FD5B1E}">
+					<ChildrenList>
+						<Action Name="" ID="{EA42AB63-FC5C-48CB-8928-47A14F9F9897}" ShortID="522295895">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Water_Splash" ID="{89A7575A-D9D3-4571-8065-A0A4FF4ED1A5}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

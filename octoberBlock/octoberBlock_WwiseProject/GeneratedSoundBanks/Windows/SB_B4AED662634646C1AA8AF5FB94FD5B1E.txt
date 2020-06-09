@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2883970604	sfx_Water_Splash			\Default Work Unit\sfx_Water_Splash	
+
