@@ -1,0 +1,196 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\HWork1\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "C:\\HWork1\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "C:\\HWork1\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\HWork1\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3275285753",
+    "GUID": "{C338E4F9-E4F9-14F9-F9F9-F9F9F9F9F9F9}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_9E627CB44CBFB2B4EFBD80A83482AC84",
+    "ShortName": "SB_9E627CB44CBFB2B4EFBD80A83482AC84",
+    "Path": "SB_9E627CB44CBFB2B4EFBD80A83482AC84.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "320669418",
+      "Name": "amb_global_ambient",
+      "ObjectPath": "\\Events\\Default Work Unit\\amb_global_ambient",
+      "GUID": "{C6C63EA9-42FC-449B-A1C1-06BBB0449C20}",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "446818529",
+        "Language": "SFX",
+        "ShortName": "Music_2.wav",
+        "Path": "SFX\\Music_2_D79FB2B7.wem"
+       },
+       {
+        "Id": "494487689",
+        "Language": "SFX",
+        "ShortName": "Music_1.wav",
+        "Path": "SFX\\Music_1_D79FB2B7.wem"
+       },
+       {
+        "Id": "962831990",
+        "Language": "SFX",
+        "ShortName": "a_env_3d_ambience_steady_water1.wav",
+        "Path": "SFX\\a_env_3d_ambience_steady_water1_D79FB2B7.wem"
+       },
+       {
+        "Id": "969105464",
+        "Language": "SFX",
+        "ShortName": "Music_3.wav",
+        "Path": "SFX\\Music_3_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3136814676",
+      "Name": "sfx_Boat_loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Boat_loop",
+      "GUID": "{3ECBAADB-7A15-494C-A815-28993FF3CDE5}",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "585978032",
+        "Language": "SFX",
+        "ShortName": "Boat_2.wav",
+        "Path": "SFX\\Boat_2_D79FB2B7.wem"
+       },
+       {
+        "Id": "883907991",
+        "Language": "SFX",
+        "ShortName": "Boat_1.wav",
+        "Path": "SFX\\Boat_1_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2546949350",
+      "Name": "sfx_Click_Confirm",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Click_Confirm",
+      "GUID": "{90A444E8-C243-416F-A0A0-3687A4B7D260}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.365465",
+      "DurationMax": "0.365465",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "721406619",
+        "Language": "SFX",
+        "ShortName": "Click_Confirm_3.wav",
+        "Path": "SFX\\Click_Confirm_3_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3050622386",
+      "Name": "sfx_Garbage_Burn",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Garbage_Burn",
+      "GUID": "{CDC347FF-789D-4ED4-A717-2B09F4AD9C81}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.066667",
+      "DurationMax": "1.066667",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "1008255845",
+        "Language": "SFX",
+        "ShortName": "Garbage_Burn.wav",
+        "Path": "SFX\\Garbage_Burn_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "282679685",
+      "Name": "sfx_Garbage_PickUp",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Garbage_PickUp",
+      "GUID": "{DA75109A-F2F2-4B67-A756-32494649CCAB}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.800000",
+      "DurationMax": "0.800000",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "610532469",
+        "Language": "SFX",
+        "ShortName": "Garbage_PickUp.wav",
+        "Path": "SFX\\Garbage_PickUp_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3462294554",
+      "Name": "sfx_Horn",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Horn",
+      "GUID": "{9501C663-3BFC-4009-82D4-4C24DE6E65C2}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.600000",
+      "DurationMax": "1.600000",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "293283357",
+        "Language": "SFX",
+        "ShortName": "Horn.wav",
+        "Path": "SFX\\Horn_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1548683425",
+      "Name": "sfx_Seagulls",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Seagulls",
+      "GUID": "{D1C944AA-9E8C-4E2E-83F1-26DD11D92CCD}",
+      "MaxAttenuation": "2000.000000",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "253753870",
+        "Language": "SFX",
+        "ShortName": "Seagulls.wav",
+        "Path": "SFX\\Seagulls_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2883970604",
+      "Name": "sfx_Water_Splash",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Water_Splash",
+      "GUID": "{B4AED662-6346-46C1-AA8A-F5FB94FD5B1E}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.200000",
+      "DurationMax": "1.200000",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "1027670751",
+        "Language": "SFX",
+        "ShortName": "Water_Splash.wav",
+        "Path": "SFX\\Water_Splash_10C4C929.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "640949982",
+      "Name": "Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Speed",
+      "GUID": "{C325B172-D73A-4BB2-887E-F4D5C300B2BD}"
+     },
+     {
+      "Id": "2782712965",
+      "Name": "Level",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Level",
+      "GUID": "{711227C5-361C-421B-A4F5-024C6AB45DE7}"
+     }
+    ]
+   }
+  ]
+ }
+}
