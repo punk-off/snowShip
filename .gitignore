@@ -1,0 +1,17 @@
+/Intermediate/**
+/Saved/**
+/.vs/**
+!*.dll
+/Binaries/Win64/*.exe
+/Binaries/Win64/*.pdb
+/*.sln
+/Plugins/FMODStudio/Intermediate/**
+!/Saved/Collections
+!/Saved/Collections/*
+FMOD/.cache/**
+FMOD/.unsaved/**
+FMOD/.user/**
+Guncers_WwiseProject/.cache
+/Guncers_WwiseProject/*.validationcache
+/Guncers_WwiseProject/*.wsettings
+/Guncers_WwiseProject/*.prof
