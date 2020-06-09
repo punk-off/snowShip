@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4F3F15C4-B4A7-4672-A403-1956F4B14A86}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{4F3F15C4-B4A7-4672-A403-1956F4B14A86}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="amb_global_ambient" ID="{C6C63EA9-42FC-449B-A1C1-06BBB0449C20}">
+					<ChildrenList>
+						<Action Name="" ID="{CA3882CA-50E9-4BFA-9652-125F4306187C}" ShortID="321621705">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Global_ambience" ID="{806EDB9D-A568-4B88-8EE4-F7B36AF52B89}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
