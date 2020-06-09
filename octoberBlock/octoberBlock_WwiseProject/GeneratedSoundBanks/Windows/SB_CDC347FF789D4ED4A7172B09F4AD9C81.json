@@ -1,0 +1,44 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1520464235",
+    "GUID": "{5AA0716B-716B-116B-6B6B-6B6B6B6B6B6B}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_CDC347FF789D4ED4A7172B09F4AD9C81",
+    "ShortName": "SB_CDC347FF789D4ED4A7172B09F4AD9C81",
+    "Path": "SB_CDC347FF789D4ED4A7172B09F4AD9C81.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3050622386",
+      "Name": "sfx_Garbage_Burn",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Garbage_Burn",
+      "GUID": "{CDC347FF-789D-4ED4-A717-2B09F4AD9C81}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.066667",
+      "DurationMax": "1.066667",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "1008255845",
+        "Language": "SFX",
+        "ShortName": "Garbage_Burn.wav",
+        "Path": "SFX\\Garbage_Burn_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

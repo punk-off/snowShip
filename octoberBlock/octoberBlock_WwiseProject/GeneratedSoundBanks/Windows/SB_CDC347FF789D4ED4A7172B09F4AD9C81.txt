@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3050622386	sfx_Garbage_Burn			\Default Work Unit\sfx_Garbage_Burn	
+

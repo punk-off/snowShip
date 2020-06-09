@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	282679685	sfx_Garbage_PickUp			\Default Work Unit\sfx_Garbage_PickUp	
+

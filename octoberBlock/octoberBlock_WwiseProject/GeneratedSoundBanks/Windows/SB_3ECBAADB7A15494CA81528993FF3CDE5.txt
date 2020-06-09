@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3136814676	sfx_Boat_loop			\Default Work Unit\sfx_Boat_loop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	640949982	Speed			\Default Work Unit\Speed	
+
