@@ -36,6 +36,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="sfx_Boat_loop" ID="{3ECBAADB-7A15-494C-A815-28993FF3CDE5}">
+					<ChildrenList>
+						<Action Name="" ID="{027CA46C-FA7F-47F5-B689-8FD1D4847630}" ShortID="480181351">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boat_loop" ID="{B6E00EA4-439F-4908-A241-7C467BC46A1C}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Garbage_Burn" ID="{CDC347FF-789D-4ED4-A717-2B09F4AD9C81}">
+					<ChildrenList>
+						<Action Name="" ID="{D9D4B336-F1DF-4255-B0AA-CEE6F90AAF35}" ShortID="532327172">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_Burn" ID="{80392841-355D-492C-962A-F9E0251D0BFE}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="sfx_Garbage_PickUp" ID="{DA75109A-F2F2-4B67-A756-32494649CCAB}">
+					<ChildrenList>
+						<Action Name="" ID="{5D164A21-23A8-409B-BDB4-CBE095A638E2}" ShortID="110994822">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Garbage_PickUp" ID="{00977728-9C78-4863-9ED1-7A798E7CA4E8}" WorkUnitID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

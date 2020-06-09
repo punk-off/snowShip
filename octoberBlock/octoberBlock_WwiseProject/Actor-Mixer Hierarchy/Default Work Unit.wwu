@@ -4,6 +4,10 @@
 		<WorkUnit Name="Default Work Unit" ID="{7324DDF0-60C4-491C-A043-0E3935EC8B05}" PersistMode="Standalone">
 			<ChildrenList>
 				<ActorMixer Name="Ambient" ID="{28DD94DF-E619-4A0D-98F5-F500B7289569}" ShortID="557289664">
+					<PropertyList>
+						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
@@ -152,6 +156,10 @@
 					</ChildrenList>
 				</ActorMixer>
 				<ActorMixer Name="Sfx" ID="{C40991B0-6429-460F-9074-E9925A242C75}" ShortID="751545747">
+					<PropertyList>
+						<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+						<Property Name="ListenerRelativeRouting" Type="bool" Value="False"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
@@ -184,6 +192,13 @@
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="Water_Splash" ID="{89A7575A-D9D3-4571-8065-A0A4FF4ED1A5}" ShortID="29146544">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-4</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
@@ -203,6 +218,121 @@
 							</ChildrenList>
 							<ActiveSourceList>
 								<ActiveSource Name="Water_Splash" ID="{A4744F0A-4F02-48F8-9DB0-6581AE503586}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Boat_loop" ID="{B6E00EA4-439F-4908-A241-7C467BC46A1C}" ShortID="127136153">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+									<RTPCList>
+										<RTPC Name="" ID="{44FF1101-1BC5-4800-9075-BF253F088D84}" ShortID="594379905">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Speed" ID="{C325B172-D73A-4BB2-887E-F4D5C300B2BD}" WorkUnitID="{96AC7BCF-4719-4780-A8F8-DE825424F95F}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{C030C143-84F4-4A8F-BC54-5F934AC86F17}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="3"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-200</YPos>
+														<Flags>5</Flags>
+														<SegmentShape>SCurve</SegmentShape>
+													</Point>
+													<Point>
+														<XPos>1</XPos>
+														<YPos>0</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Boat_loop" ID="{39C11BC1-40D8-4044-A1FC-DD8E02EA3AEC}">
+									<Language>SFX</Language>
+									<AudioFile>Boat_loop.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="642166953"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Boat_loop" ID="{39C11BC1-40D8-4044-A1FC-DD8E02EA3AEC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Garbage_Burn" ID="{80392841-355D-492C-962A-F9E0251D0BFE}" ShortID="447703782">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-8</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Garbage_Burn" ID="{81589A5C-CE88-4E02-B7F7-BC6566D6C752}">
+									<Language>SFX</Language>
+									<AudioFile>Garbage_Burn.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1008255845"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Garbage_Burn" ID="{81589A5C-CE88-4E02-B7F7-BC6566D6C752}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Garbage_PickUp" ID="{00977728-9C78-4863-9ED1-7A798E7CA4E8}" ShortID="809830427">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F5174260-0427-4210-9471-8C8B8312E95B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1E435397-FA8A-4708-84D1-C1A172C0E0B0}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Garbage_PickUp" ID="{FDDA0639-7EE7-4E93-AE60-C3CA1C1E2C8A}">
+									<Language>SFX</Language>
+									<AudioFile>Garbage_PickUp.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="610532469"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Garbage_PickUp" ID="{FDDA0639-7EE7-4E93-AE60-C3CA1C1E2C8A}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>
