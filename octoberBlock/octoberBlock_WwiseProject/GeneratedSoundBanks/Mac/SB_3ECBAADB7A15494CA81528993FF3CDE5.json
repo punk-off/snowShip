@@ -1,0 +1,56 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Gitlab\\snowShip\\octoberBlock\\octoberBlock_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "319006534",
+    "GUID": "{1303A746-A746-1746-4646-464646464646}",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB_3ECBAADB7A15494CA81528993FF3CDE5",
+    "ShortName": "SB_3ECBAADB7A15494CA81528993FF3CDE5",
+    "Path": "SB_3ECBAADB7A15494CA81528993FF3CDE5.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3136814676",
+      "Name": "sfx_Boat_loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\sfx_Boat_loop",
+      "GUID": "{3ECBAADB-7A15-494C-A815-28993FF3CDE5}",
+      "DurationType": "Infinite",
+      "ExcludedMemoryFiles": [
+       {
+        "Id": "585978032",
+        "Language": "SFX",
+        "ShortName": "Boat_2.wav",
+        "Path": "SFX\\Boat_2_D79FB2B7.wem"
+       },
+       {
+        "Id": "883907991",
+        "Language": "SFX",
+        "ShortName": "Boat_1.wav",
+        "Path": "SFX\\Boat_1_D79FB2B7.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "640949982",
+      "Name": "Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Speed",
+      "GUID": "{C325B172-D73A-4BB2-887E-F4D5C300B2BD}"
+     }
+    ]
+   }
+  ]
+ }
+}
