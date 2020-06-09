@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	282679685	sfx_Garbage_PickUp			\Default Work Unit\sfx_Garbage_PickUp	
+	320669418	amb_global_ambient			\Default Work Unit\amb_global_ambient	
+	1548683425	sfx_Seagulls			\Default Work Unit\sfx_Seagulls	
+	2546949350	sfx_Click_Confirm			\Default Work Unit\sfx_Click_Confirm	
+	2883970604	sfx_Water_Splash			\Default Work Unit\sfx_Water_Splash	
+	3050622386	sfx_Garbage_Burn			\Default Work Unit\sfx_Garbage_Burn	
+	3136814676	sfx_Boat_loop			\Default Work Unit\sfx_Boat_loop	
+	3462294554	sfx_Horn			\Default Work Unit\sfx_Horn	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	640949982	Speed			\Default Work Unit\Speed	
+	2782712965	Level			\Default Work Unit\Level	
+

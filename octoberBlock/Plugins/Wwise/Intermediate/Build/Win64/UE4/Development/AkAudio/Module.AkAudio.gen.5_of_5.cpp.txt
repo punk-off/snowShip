@@ -1,0 +1,302 @@
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Development\AkAudio\Definitions.AkAudio.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkAudioEventTemplate.gen.cpp
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio/Private/MovieSceneAkAudioEventTemplate.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceID.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSpawnable.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneBinding.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieScenePossessable.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSignedObject.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieScene.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneBlendType.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSection.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioEventTemplate.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkAudioEventTrack.gen.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio/Classes/MovieSceneAkAudioEventTrack.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkTrack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkTrack.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioEvent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAssetBase.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkInitializationSettings.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\LatentActions.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameplayTypes.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioType.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAssetBase.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioEvent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioEventTrack.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkAudioRTPCSection.gen.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio/Classes/MovieSceneAkAudioRTPCSection.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkRtpc.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkRtpc.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneFloatChannelSerializationHelper.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneChannel.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneChannelData.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneFloatChannelSerializationHelper.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCSection.generated.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkAudioRTPCTemplate.gen.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio/Private/MovieSceneAkAudioRTPCTemplate.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCTemplate.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkAudioRTPCTrack.gen.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio/Classes/MovieSceneAkAudioRTPCTrack.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCTrack.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneAkTrack.gen.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Intermediate/Build/Win64/UE4/Inc/AkAudio/MovieSceneFloatChannelSerializationHelper.gen.cpp

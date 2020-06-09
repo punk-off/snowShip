@@ -1,0 +1,991 @@
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Development\AkAudio\Definitions.AkAudio.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAcousticPortal.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticPortal.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkPortalOcclusionObstructionService.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkInitializationSettings.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\LatentActions.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameplayTypes.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkOcclusionObstructionService.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAcousticPortal.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BrushComponent.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameObject.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkRoomComponent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkComponent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkComponentOcclusionObstructionService.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkComponent.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAcousticTexture.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTexture.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioType.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAcousticTexture.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAmbientSound.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAmbientSound.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAmbientSound.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioEvent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAssetBase.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAssetBase.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioEvent.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAssetBase.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkMediaAsset.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkMediaAsset.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkUnrealHelper.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformInfo.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\UE_4.25\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameEngine.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkPlatformInfo.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\IntegrationBehavior/AkIntegrationBehavior.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioBank.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioBank.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioBank.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\AkCustomVersion.h
+D:\UE_4.25\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryModule.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\AssetRegistry\ARFilter.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioDevice.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkAudioModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAuxBus.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAuxBus.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkCallbackInfoPool.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject/Public/UObject/StrongObjectPtr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\AkComponentCallbackManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkInitBank.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkInitBank.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkLateReverbComponent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkLateReverbComponent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkRtpc.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkRtpc.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSettings.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\TireType.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PhysicsSettingsEnums.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PhysicalMaterial.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSettings.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSpotReflector.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSpotReflector.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkStateValue.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGroupValue.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGroupValue.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkStateValue.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSwitchValue.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSwitchValue.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkTrigger.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkTrigger.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Public\AkWaapiClient.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/waapi.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUtils.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\EditorSupportDelegates.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\IAkUnrealIOHook.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\UE_4.25\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkVorbisDecoderFactory.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkMeterFXFactory.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkOpusDecoderFactory.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioEvent.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioInputComponent.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputComponent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioInputComponent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioInputManager.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioInputManager.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkAudioInputSourceFactory.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkAudioInputPlugin.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioModule.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkAudioStyle.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/WwiseTreeItem.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WwiseItemType.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioStyle.cpp
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAudioType.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkAuxBus.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkBankManager.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkCallbackInfoPool.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkComponent.cpp
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BillboardComponent.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkComponentCallbackManager.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkCustomVersion.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkGameObject.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkGameplayStatics.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayStatics.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGameplayStatics.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkGameplayTypes.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkGeometryComponent.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkGeometryComponent.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkGeometryComponent.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/Polys.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Polys.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\PhysXPublic.h
+D:\UE_4.25\Engine\Source\Runtime\PhysicsCore\Public\PhysXPublicCore.h
+D:\UE_4.25\Engine\Source\Runtime\PhysicsCore\Public\PhysXIncludes.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ciso646
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\iso646.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBitAndData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBounds3.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxTransform.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrors.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFlags.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundation.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundationVersion.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIO.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat44.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec4.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMathUtils.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxStrideIterator.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxUnionCast.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec2.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxCoreUtilityTypes.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMemory.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysXCommonConfig.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxRenderBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxBase.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxSerialFramework.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxCollection.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTypeInfo.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTolerancesScale.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxStringTable.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxSerializer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxMetaData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxMetaDataFlags.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysicsInsertionCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskDefine.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskManager.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxCpuDispatcher.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxGpuDispatcher.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\gpu/PxGpu.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysXConfig.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaContextManager.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaMemoryManager.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxGpuCopyDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxBoxGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxCapsuleGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMesh.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMeshGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshScale.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryHelpers.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxSphereGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxPlaneGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxTriangleMeshGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxHeightFieldGeometry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryQuery.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryReport.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightField.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldFlag.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldSample.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshQuery.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxSimpleTriangleMesh.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangle.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangleMesh.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxActor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxClient.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxAggregate.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulation.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationLink.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidBody.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidActor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxShape.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxForceMode.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQuery.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQueryDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxFiltering.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryFiltering.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraintDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContact.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContactModifyCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxDeletionListener.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxLockedData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxMaterial.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysics.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothTypes.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothFabric.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsVersion.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidDynamic.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidStatic.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxScene.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVisualizationParameter.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBroadPhase.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationStatistics.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleSystem.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBase.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBaseFlag.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleCreationData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleReadData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles\PxParticleFlag.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluid.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluidReadData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\pvd/PxPvdSceneClient.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneLock.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationEventCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSpatialIndex.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVolumeCache.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPruningStructure.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxBoxController.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCharacter.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxController.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxExtended.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerObstacles.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCapsuleController.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerBehavior.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerManager.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxCloth.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothCollisionData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothParticleData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/Pxc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxConvexMeshDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxCooking.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxTriangleMeshDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxMidphaseDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH33MidphaseDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH34MidphaseDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultStreams.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDistanceJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxExtensionsAPI.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultAllocator.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConstraintExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxFixedJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxPrismaticJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJointLimit.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRevoluteJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSphericalJoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxD6Joint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultSimulationFilterShader.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultErrorCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidActorExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidBodyExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxMassProperties.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxShapeExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxParticleExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxTriangleMeshExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSerialization.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultCpuDispatcher.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSmoothNormals.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSimpleFactory.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxStringTableExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothFabricCooker.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxClothMeshDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBroadPhaseExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothMeshQuadifier.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSceneQueryExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConvexMeshExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBinaryConverter.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSerializer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSimpleType.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleComponents.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle\PxVehicleSDK.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleWheels.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleShaders.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive4W.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveTank.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleTireFriction.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUpdate.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilControl.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveNW.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilSetup.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilTelemetry.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleNoDrive.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvd.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxProfiler.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvdTransport.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxCollectionExt.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxImmediateMode.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\solver/PxSolverDefs.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactPoint.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\collision/PxCollisionDefs.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Apex.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexUsingNamespace.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDefs.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3\PhysXSDKVersion.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexInterface.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RWLockable.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDK.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvSerializer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf/PxFileBuf.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvSerializer.inl
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.inl
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvParameterizedMacroses.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized_types.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterizedTraits.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Shape.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Actor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Context.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexNameSpace.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysXObjectDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataProvider.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Renderable.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreview.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Asset.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreviewScene.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderContext.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Scene.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDebugInterface.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebugTyped.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebug.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\MirrorScene.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDKCachedData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IProgressListener.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Module.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IosAsset.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataFormat.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderBufferData.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceManager.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBufferDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResource.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBuffer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderer.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\VertexFormat.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMesh.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActorDesc.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshAsset.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceCallback.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceProvider.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/ModuleDestructible.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleAsset.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsAPI.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\ExplicitHierarchicalMesh.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ConvexHullMethod.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsStructs.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleActor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ModuleClothing.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingAsset.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingActor.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingCollision.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
+D:\UE_4.25\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.inl
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkGroupValue.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkInitBank.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkLateReverbComponent.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkMediaAsset.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkReverbVolume.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkReverbVolume.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkReverbVolume.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkRoomComponent.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkRtpc.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSettingsPerUser.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSettingsPerUser.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos/Array2D.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\StringMatchAlgos/StringMatching.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSettingsPerUser.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSpatialAudioVolume.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSpatialAudioVolume.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetComponent.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\TextRenderComponent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSurfaceReflectorSetComponent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSpatialAudioVolume.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSpotReflector.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkStateValue.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSurfaceReflectorSetComponent.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkSwitchValue.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkTrigger.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkUnrealHelper.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkUnrealIOHook.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\AkUnrealIOHook.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiCalls.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiCalls.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiUri.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Views/STreeView.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableTextBox.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SEditableText.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Text/ISlateEditableTextWidget.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/TextFilter.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/TextFilterExpressionEvaluator.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/IFilter.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiUri.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints\AkWaapiJsonManager.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiFieldNames.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiFieldNames.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiJsonManager.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWaapiCalls.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiUriCustomization.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiBlueprints/AkWaapiFieldNamesCustomization.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiFieldNames.cpp
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiFieldNamesCustomization.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiJsonManager.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiUri.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\AkWaapiBlueprints\AkWaapiUriList.inc
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiBlueprints/AkWaapiUriCustomization.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiClient.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/Client.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/autobahn.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\condition_variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vcruntime_startup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\future
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ppltasks.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplwin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplinterface.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ppltaskscheduler.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplcancellation_token.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cctype
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/AkVariant.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkVariantBase.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xloctime
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ctime
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\codecvt
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK\WwiseAuthoringAPI\AkGuid.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/AkJson.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkJsonBase.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/JsonProvider.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/IWebSocketClientHandler.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/WebSocketClient.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/AkAutobahn/FutureUtils.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiSlate/Widgets/Input/AkSSlider.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiSlate/Widgets/Input/AkSSlider.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/SWaapiPicker.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/WwiseUmgDragDropOp.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/WwisePropertyDragDropOp.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SNumericEntryBox.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/NumericTypeInterface.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Math/BasicMathExpressionEvaluator.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/FastDecimalFormat.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorBlock.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkBoolPropertyToControlCustomization.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkCheckBox.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkCheckBox.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/PanelSlot.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Visual.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\PanelSlot.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\SlateWrapperTypes.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetTransform.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetNavigation.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Widget.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\NamedSlotInterface.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Slate\Anchors.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSignedObject.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceID.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSpawnable.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneBinding.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieScenePossessable.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieScene.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneBlendType.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSection.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrack.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+D:\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneSequence.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetAnimationBinding.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetAnimation.generated.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+D:\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+D:\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\PropertyPath\PropertyPathHelpers.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\DynamicPropertyPath.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\UserWidget.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\PanelWidget.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\ContentWidget.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkSlider.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemProperties.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemProperties.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkItemProperties.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSlider.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\AkItemBoolProperties.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG\Components\SAkItemBoolProperties.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkItemBoolProperties.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkCheckBox.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Slate/SlateBrushAsset.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SlateBrushAsset.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkBoolPropertyToControlCustomization.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/WwiseBoolPropertyDragDropOp.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkItemBoolProperties.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkItemProperties.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkPropertyToControlCustomization.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkSlider.cpp
+D:\UE_4.25\Engine\Source\Runtime\UMG\Public\UMGStyle.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkWwiseObjectDetailsStructCustomization.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkPropertyToControlCustomization.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkWwiseObjectDetailsStructCustomization.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkWwiseTree.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkWwiseTree.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWwiseTree.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/AkWwiseTreeSelector.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUMG/Components/AkWwiseTreeSelector.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkWwiseTreeSelector.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/SAkItemBoolProperties.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUMG/Components/SAkItemProperties.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/AkWaapiUtils.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InitializationSettings/AkAudioSession.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkAudioSession.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAudioSession.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InitializationSettings/AkInitializationSettings.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/IntegrationBehavior/AkEventBasedIntegrationBehavior.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\IntegrationBehavior\AkEventBasedIntegrationBehavior.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/IntegrationBehavior/AkIntegrationBehavior.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\IntegrationBehavior\AkLegacyIntegrationBehavior.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/IntegrationBehavior/AkLegacyIntegrationBehavior.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook/AkFilePackageLowLevelIO.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook\AkFilePackage.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook\AkFilePackageLUT.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkListBare.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook\AkFilePackageLowLevelIO.inl
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook\AkFilePackageLowLevelIO.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\LegacyIOHook/AkUnrealLegacyIOHook.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InterpTrackAkAudioEvent.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioEvent.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrack.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\Interpolation.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpTrack.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackVectorBase.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpTrackVectorBase.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\InterpTrackAkAudioEvent.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackInstAkAudioEvent.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackInst.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpTrackInst.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\InterpTrackInstAkAudioEvent.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Public\InterpolationHitProxy.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroup.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpGroup.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroupInst.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpGroupInst.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeActor.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MatineeActor.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InterpTrackAkAudioRTPC.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioRTPC.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackFloatBase.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InterpTrackFloatBase.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\InterpTrackAkAudioRTPC.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InterpTrackInstAkAudioEvent.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/InterpTrackInstAkAudioRTPC.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackInstAkAudioRTPC.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\InterpTrackInstAkAudioRTPC.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/LegacyIOHook/AkFilePackage.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/LegacyIOHook/AkFilePackageLUT.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/LegacyIOHook/AkUnrealLegacyIOHook.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioEventSection.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventSection.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WwiseEventTracking.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioEventSection.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventTrack.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkTrack.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkTrack.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioEventTrack.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioEventTemplate.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioEventTemplate.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioEventTemplate.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioEventTrack.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioRTPCSection.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCSection.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneFloatChannelSerializationHelper.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneChannel.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneChannelData.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTemplateStore.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneFloatChannelSerializationHelper.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCSection.generated.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Private\MovieSceneAkAudioRTPCTemplate.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCTemplate.generated.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelProxy.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelEditorDataEntry.h
+D:\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelHandle.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioRTPCTemplate.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/MovieSceneAkAudioRTPCTrack.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCTrack.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\MovieSceneAkAudioRTPCTrack.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/OcclusionObstructionService/AkComponentOcclusionObstructionService.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/OcclusionObstructionService/AkOcclusionObstructionService.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/OcclusionObstructionService/AkPortalOcclusionObstructionService.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Android/AkAndroidInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Android/AkAndroidInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkAndroidInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Hololens/AkHololensInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Hololens/AkHololensInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkHololensInitializationSettings.generated.h
+D:\UE_4.25\Engine\Source\Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_iOS/AkIOSInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_iOS/AkIOSInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkIOSInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Linux/AkLinuxInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Linux/AkLinuxInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkLinuxInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Lumin/AkLuminInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Lumin/AkLuminInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkLuminInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Mac/AkMacInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Mac/AkMacInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkMacInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_PS4/AkPS4InitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_PS4/AkPS4InitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkPS4InitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_PS4/AkPS4Platform.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Switch/AkSwitchInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_Switch/AkSwitchInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkSwitchInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_tvOS/AkTVOSInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_tvOS/AkTVOSInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkTVOSInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_Windows/AkWindowsInitializationSettings.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatform_XboxOne/AkXboxOneInitializationSettings.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatform_XboxOne/AkXboxOneInitializationSettings.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Intermediate\Build\Win64\UE4\Inc\AkAudio\AkXboxOneInitializationSettings.generated.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkPlatformBase.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/Platforms/AkUEPlatform.cpp
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\Interfaces/IProjectManager.h
+D:\UE_4.25\Engine\Source\Runtime\Projects\Public\ProjectDescriptor.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/StringMatchAlgos/StringMatching.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/WaapiPicker/SWaapiPicker.cpp
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/SWaapiPickerRow.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
+C:\HWork1\snowShip\octoberBlock\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/WaapiPickerViewCommands.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Input/SHyperlink.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Accessibility/SlateAccessibleWidgets.h
+D:\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateCoreAccessibleWidgets.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h
+D:\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/WaapiPicker/SWaapiPickerRow.cpp
+C:/HWork1/snowShip/octoberBlock/Plugins/Wwise/Source/AkAudio/Private/WwiseEventTracking.cpp
